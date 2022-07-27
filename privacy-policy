@@ -1,4 +1,6 @@
 Shams Karbalaa is an interactive and educational centered puzzle game that target kids from 9 to 17 years old.
 
 #Collecting Data
-The game doen't collect any kind of data and thus doesn't share anything with any third party. The game stores its progress on user's device and the data can be erased by deleting app data or by unistalling the game. The game asks for user name at the beginning to show player name on achievment screens and this is not sent to our servers.
+The game doen't collect any kind of data and thus doesn't share anything with any third party. 
+The progress of the user is stored on user's device and the data can be erased by deleting app data or by unistalling the game. 
+We ask for user name at the beginning to show player name on achievment screens and this is not sent to our servers.
